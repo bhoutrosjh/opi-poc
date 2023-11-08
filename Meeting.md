@@ -315,3 +315,54 @@ Attendees: Steven Royer, Kyle Mestery, Boris Glimcher, Timothy Worsley, Dan Daly
 
 * Decided to end the regularly scheduled meetings for this group.  We will use
   github and slack (#poc-dev-platform) for further discussions.
+
+## 11/8/2023
+
+	• Laura Joffe Hendrickson - Organizing and tracking; solving roadblocks 
+	• Paul Pindell - participant and scripting 
+	• Steven Royer - team member 
+	• Chetan Sehgal - 
+	• Mircea Dan Gheorgie - Implementing POC and making sure that environment is making correct progress 
+
+Put slide deck in google drive -- OPI Events OCP Folder in Google Drive 
+
+GitHub Repo Links and other important links: 
+	1. sZTP?
+	2. Dev POC group 
+	3. POC that was delivered at Open Compute
+	4. Traffic Generator 
+	
+	
+Scope of group: 
+	1. Scripting?
+	2. Labs? 
+	3. Write code (beyond scripting)? 
+
+Charter: Test out the code and hardware that other working groups are building; 
+
+Questions: 
+
+Working group scope: Code quality? Is the role of the POC group to only do POC or are we building out the "bridges" for delivery (who is building the unifying work?) -- who is building and will continue to build a release? 
+
+Most recent PoC: How did resourcing go on the DPU? -- we don't know yet 
+	
+
+Action Items: Get people on the call. 
+
+	1. Break out the environments 
+		a. Status 
+			i. Switch in OPI lab is unmanaged - DPU and Host are both being managed there 
+			ii. Need to separate DPU mangement from host management 
+			iii. F5 will be sending BIG-IP HW to OPI 
+			iv. Send it to HE and how to connect it 
+			v. Do we need to have VMWare on a server?  This should be vlan20
+	2. Steven Royer -- go back to RH to get audience for what we have already done (after the video is published on Monday) 
+	3. Get software from Keysight to start instantiating traffic (generating) 
+		a. Mircea to send link 
+			i. Discrepancy 
+
+Notes:
+
+Marvell team has built out code that takes the F5 demo to the next level -- hoping to contribute this back to the group
+![image](https://github.com/opiproject/opi-poc/assets/99909441/0343a142-72e4-4347-b16c-75b001e1cdc7)
+
